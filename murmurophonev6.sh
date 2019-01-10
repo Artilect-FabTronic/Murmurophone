@@ -1,5 +1,9 @@
 #!/bin/bash
-#Project description
+# (C) 2019 Cedric Mialaret
+# Ceci est le code source du projet Murmurophone
+# http://www.plumesdelles.org/?page_id=2414
+# This is the source code for the Murmurophone project
+# Project description
 # Aim: an antique phone booth where people can hear and share their 'life story'. Will travel in the whole country
 # When a person picks up the phone:
 # 1. A random story is played from the collection of stories.
